@@ -18,7 +18,7 @@ console.log(rickAndMortyCharacters)
 
 // Muestra en consola el último personaje del array
 console.log(rickAndMortyCharacters[rickAndMortyCharacters.length - 1]);
-//? no entiendo muy bien cómo funciona este
+//? para mostrar el último elemento del array
 
 
 
